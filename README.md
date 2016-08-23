@@ -24,6 +24,8 @@ the same time.
 ### How do I run? ###
 * Start by running the server:  ./server
 * Open other terminal windows or tabs and run the peer on each of them: ./peer
+* Proceed by selecting different options on the peers
+* Remember to initiate chat to a peer that is waiting
 
 ### Who do I talk to? ###
 
