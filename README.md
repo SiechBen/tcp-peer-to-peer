@@ -26,7 +26,7 @@ the same time.
 * &nbsp;&nbsp;&nbsp;./server
 
 * ### Open other terminal windows or tabs and run the peer on each of them ###
-* &nbsp;&nbsp;&nbsp;./peer
+ &nbsp;&nbsp;&nbsp;./peer
 
 ### Who do I talk to? ###
 
