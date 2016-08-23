@@ -1,12 +1,24 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This README documents whatever steps are necessary to get the application up and running.
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* Peer to peer sockets programming. A central server is used as registry of running peers.
+### a) Client- Server Computing ###
+The client programs are written such they at starting up, they register their details
+with the central server. The server program maintains a list of all the clients that are
+running and have registered with it.
+### b) Peer-to-peer computing ###
+Upon obtaining the list of other clients from the server, the client program can connect to
+any of the client from the list. The clients once connected to each other should have the
+capability of relaying text messages directly to each other without further help from the
+server. A client that receives the message displays it on its console. Each client
+sends an acknowledgement to the other client that a text message has been received and
+displayed. Some way of disconnecting or terminating the communication between two peers
+is provided(by typing \W or \w). The communication channel between any two clients
+is duplex so that both clients are capable of transmitting and receiving messages at
+the same time.
 
 ### How do I compile? Run the following commands on the terminal ###
 
@@ -22,4 +34,4 @@ This README would normally document whatever steps are necessary to get your app
 
 ### Who do I talk to? ###
 
-* Siech. contact me on (siele.bernard@gmail.com)
+* [Contact Siech](mailto:siele.bernard@gmail.com)
