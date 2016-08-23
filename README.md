@@ -1,8 +1,4 @@
-# README #
-
-This README documents whatever steps are necessary to get the application up and running.
-
-### What is this repository for? ###
+# What this is about #
 
 * Peer to peer sockets programming. A central server is used as registry of running peers.
 ### a) Client- Server Computing ###
@@ -26,10 +22,10 @@ the same time.
 * gcc -pthread -o server server.c
 
 ### How do I run? ###
-## Start by running the server ##
+* ### Start by running the server ###
 * ./server
 
-## Open other terminal windows or tabs and run the peer on each of them ##
+* ### Open other terminal windows or tabs and run the peer on each of them ###
 * ./peer
 
 ### Who do I talk to? ###
