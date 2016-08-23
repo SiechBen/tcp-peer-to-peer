@@ -13,13 +13,13 @@ This README would normally document whatever steps are necessary to get your app
 * gcc -pthread -o peer peer.c
 * gcc -pthread -o server server.c
 
-### Contribution guidelines ###
+### How do I run? ###
+## Start by running the server ##
+* ./server
 
-* Writing tests
-* Code review
-* Other guidelines
+## Open other terminal windows or tabs and run the peer on each of them ##
+* ./peer
 
 ### Who do I talk to? ###
 
-* Repo owner or admin
-* Other community or team contact
+* Siech. contact me on (siele.bernard@gmail.com)
