@@ -2,11 +2,11 @@
 
 * Peer to peer sockets programming. A central server is used as registry of running peers.
 ### a) Client- Server Computing ###
-The client programs are written such they at starting up, they register their details
+* The client programs are written such they at starting up, they register their details
 with the central server. The server program maintains a list of all the clients that are
 running and have registered with it.
 ### b) Peer-to-peer computing ###
-Upon obtaining the list of other clients from the server, the client program can connect to
+* Upon obtaining the list of other clients from the server, the client program can connect to
 any of the client from the list. The clients once connected to each other should have the
 capability of relaying text messages directly to each other without further help from the
 server. A client that receives the message displays it on its console. Each client
@@ -23,10 +23,10 @@ the same time.
 
 ### How do I run? ###
 * ### Start by running the server ###
-* ./server
+** ./server
 
 * ### Open other terminal windows or tabs and run the peer on each of them ###
-* ./peer
+** ./peer
 
 ### Who do I talk to? ###
 
