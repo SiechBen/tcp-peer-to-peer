@@ -8,14 +8,10 @@ This README would normally document whatever steps are necessary to get your app
 * Version
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
-### How do I get set up? ###
+### How do I compile? Run the following commands on the terminal ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+* gcc -pthread -o peer peer.c
+* gcc -pthread -o server server.c
 
 ### Contribution guidelines ###
 
