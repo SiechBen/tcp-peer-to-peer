@@ -23,10 +23,10 @@ the same time.
 
 ### How do I run? ###
 * ### Start by running the server ###
-* &nbsp;&nbsp;&nbsp;./server
+* ./server
 
 * ### Open other terminal windows or tabs and run the peer on each of them ###
- &nbsp;&nbsp;&nbsp;./peer
+* ./peer
 
 ### Who do I talk to? ###
 
