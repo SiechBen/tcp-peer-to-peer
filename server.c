@@ -5,7 +5,7 @@
  */
 
 /* 
- * File:   server.c
+ * File:   main.c
  * Author: siech
  *
  * Created on July 4, 2016, 10:07 AM
